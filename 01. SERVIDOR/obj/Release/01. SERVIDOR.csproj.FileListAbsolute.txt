@@ -1,0 +1,210 @@
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.abstractions.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.runner.visualstudio.testadapter.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.runner.reporters.net452.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.runner.utility.net452.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\uniconv_restful_dotnet.dll.config
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Collections.Immutable.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Reflection.Metadata.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.assert.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.core.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.execution.desktop.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Collections.Immutable.xml
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Reflection.Metadata.xml
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.assert.xml
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.core.xml
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.execution.desktop.xml
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.AssemblyReference.cache
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.CoreCompileInputs.cache
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\01. SERV.AB13E16B.Up2Date
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\Nueva carpeta\SOAP_REST_JAVA_DOTNET_Arquitectura_GR03\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.runner.visualstudio.testadapter.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.abstractions.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.runner.reporters.net452.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.runner.utility.net452.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\uniconv_restful_dotnet.dll.config
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Collections.Immutable.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Reflection.Metadata.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.assert.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.core.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.execution.desktop.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Collections.Immutable.xml
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\System.Reflection.Metadata.xml
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.assert.xml
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.core.xml
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\xunit.execution.desktop.xml
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.AssemblyReference.cache
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.CoreCompileInputs.cache
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\01. SERV.AB13E16B.Up2Date
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\dotnetxd\04. REST_SIN_BDD_DOTNET_GR03\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.runner.visualstudio.testadapter.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.abstractions.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.runner.reporters.net452.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.runner.utility.net452.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\uniconv_restful_dotnet.dll.config
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\System.Collections.Immutable.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\System.Reflection.Metadata.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.assert.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.core.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.execution.desktop.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\System.Collections.Immutable.xml
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\System.Reflection.Metadata.xml
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.assert.xml
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.core.xml
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\xunit.execution.desktop.xml
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.AssemblyReference.cache
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.CoreCompileInputs.cache
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\obj\Release\01. SERV.AB13E16B.Up2Date
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\eurekaGit\GITrest\SOAP-REST-ERUREKABANCK\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.AssemblyReference.cache
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\obj\Release\01. SERVIDOR.csproj.CoreCompileInputs.cache
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\obj\Release\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.runner.visualstudio.testadapter.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.abstractions.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.runner.reporters.net452.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.runner.utility.net452.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\uniconv_restful_dotnet.dll.config
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\uniconv_restful_dotnet.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\uniconv_restful_dotnet.pdb
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\System.Collections.Immutable.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\System.Reflection.Metadata.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.assert.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.core.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.execution.desktop.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\System.Collections.Immutable.xml
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\System.Reflection.Metadata.xml
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.assert.xml
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.core.xml
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\xunit.execution.desktop.xml
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\obj\Release\01. SERV.AB13E16B.Up2Date
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\Newtonsoft.Json.dll
+C:\Users\bazur\Desktop\examenP1Arq\rest_dotnet_git\Viajecito_REST_DOTNET\01. SERVIDOR\bin\Newtonsoft.Json.xml

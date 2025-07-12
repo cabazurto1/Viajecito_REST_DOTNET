@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\PublicacionServicio\Restfull</_PublishTargetUrl>
+    <History>True|2025-05-17T01:38:17.9804239Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.TestPlatform.CoreUtilities.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.TestPlatform.PlatformAbstractions.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.CodeCoverage.Shim.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/System.Collections.Immutable.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/uniconv_restful_dotnet.dll">
+      <publishTime>05/16/2025 20:38:17</publishTime>
+    </File>
+    <File Include="bin/uniconv_restful_dotnet.pdb">
+      <publishTime>05/16/2025 20:38:17</publishTime>
+    </File>
+    <File Include="bin/xunit.abstractions.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/xunit.assert.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/xunit.core.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/xunit.execution.desktop.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/xunit.runner.reporters.net452.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/xunit.runner.utility.net452.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/xunit.runner.visualstudio.testadapter.dll">
+      <publishTime>05/16/2025 21:17:00</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll">
+      <publishTime>05/16/2025 21:16:00</publishTime>
+    </File>
+    <File Include="ec.edu.monster.controlador/ConversionController.svc">
+      <publishTime>05/16/2025 18:24:24</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/16/2025 21:14:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/16/2025 20:38:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
