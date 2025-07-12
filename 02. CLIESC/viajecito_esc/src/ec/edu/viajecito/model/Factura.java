@@ -5,6 +5,7 @@
 package ec.edu.viajecito.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import java.math.BigDecimal;
 import java.time.Instant;
@@ -15,6 +16,7 @@ import java.util.Date;
  *
  * @author Drouet
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Factura {
     private Integer idFactura;
     private String numeroFactura;

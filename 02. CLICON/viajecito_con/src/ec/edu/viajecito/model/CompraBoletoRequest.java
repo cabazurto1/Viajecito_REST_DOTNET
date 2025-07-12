@@ -4,12 +4,14 @@
  */
 package ec.edu.viajecito.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.util.List;
 
 /**
  *
  * @author Drouet
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class CompraBoletoRequest {
     private int idUsuario;
     private List<VueloCompra> vuelos;

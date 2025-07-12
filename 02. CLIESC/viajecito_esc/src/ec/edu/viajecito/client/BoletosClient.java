@@ -4,6 +4,8 @@
  */
 package ec.edu.viajecito.client;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.ws.rs.ClientErrorException;
 import jakarta.ws.rs.client.Client;
 import jakarta.ws.rs.client.WebTarget;
@@ -27,17 +29,27 @@ public class BoletosClient {
 
     private WebTarget webTarget;
     private Client client;
-    private static final String BASE_URI = "http://10.69.99.199:8080/aerolineas_condor_server/api";
+    private static final String BASE_URI = "http://localhost:61210/ec.edu.monster.controlador/AerolineasController.svc";
+    private static final ObjectMapper mapper = new ObjectMapper(); // Jackson mapper
 
     public BoletosClient() {
         client = jakarta.ws.rs.client.ClientBuilder.newClient();
         webTarget = client.target(BASE_URI).path("boletos");
     }
 
-    public <T> T obtenerBoletosPorUsuario(GenericType<T> responseType, String idUsuario) throws ClientErrorException {
+    // Método usando TypeReference en lugar de GenericType
+    public <T> T obtenerBoletosPorUsuario(TypeReference<T> typeReference, String idUsuario) throws ClientErrorException {
         WebTarget resource = webTarget;
         resource = resource.path(java.text.MessageFormat.format("usuario/{0}", new Object[]{idUsuario}));
-        return resource.request(jakarta.ws.rs.core.MediaType.APPLICATION_JSON).get(responseType);
+        
+        Response response = resource.request().get();
+        String json = response.readEntity(String.class);
+        
+        try {
+            return mapper.readValue(json, typeReference);
+        } catch (Exception e) {
+            throw new RuntimeException("❌ Error al parsear respuesta JSON: " + e.getMessage(), e);
+        }
     }
 
     public Response comprarBoletos(Object requestEntity) throws ClientErrorException {
@@ -47,5 +59,5 @@ public class BoletosClient {
     public void close() {
         client.close();
     }
-    
+
 }

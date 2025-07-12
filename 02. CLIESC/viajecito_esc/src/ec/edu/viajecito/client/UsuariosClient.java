@@ -4,9 +4,11 @@
  */
 package ec.edu.viajecito.client;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.ws.rs.ClientErrorException;
 import jakarta.ws.rs.client.Client;
 import jakarta.ws.rs.client.WebTarget;
+import jakarta.ws.rs.core.Response;
 
 /**
  * Jersey REST client generated for REST resource:UsuariosFacadeREST
@@ -25,7 +27,8 @@ public class UsuariosClient {
 
     private WebTarget webTarget;
     private Client client;
-    private static final String BASE_URI = "http://10.69.99.199:8080/aerolineas_condor_server/api";
+    private static final String BASE_URI = "http://localhost:61210/ec.edu.monster.controlador/AerolineasController.svc";
+    private static final ObjectMapper mapper = new ObjectMapper(); // Jackson mapper
 
     public UsuariosClient() {
         client = jakarta.ws.rs.client.ClientBuilder.newClient();
@@ -35,7 +38,7 @@ public class UsuariosClient {
     public void create(Object requestEntity) throws ClientErrorException {
         webTarget.request(jakarta.ws.rs.core.MediaType.APPLICATION_JSON).post(jakarta.ws.rs.client.Entity.entity(requestEntity, jakarta.ws.rs.core.MediaType.APPLICATION_JSON));
     }
-    
+
     public <T> T login(Class<T> responseType, String password, String username) throws ClientErrorException {
         WebTarget resource = webTarget;
         if (password != null) {
@@ -45,11 +48,20 @@ public class UsuariosClient {
             resource = resource.queryParam("username", username);
         }
         resource = resource.path("login");
-        return resource.request(jakarta.ws.rs.core.MediaType.APPLICATION_JSON).get(responseType);
+
+        // Forzar lectura como texto sin importar Content-Type
+        Response response = resource.request().get();
+        String json = response.readEntity(String.class);
+
+        try {
+            return mapper.readValue(json, responseType);
+        } catch (Exception e) {
+            throw new RuntimeException("❌ Error al parsear respuesta JSON: " + e.getMessage(), e);
+        }
     }
 
     public void close() {
         client.close();
     }
-    
+
 }

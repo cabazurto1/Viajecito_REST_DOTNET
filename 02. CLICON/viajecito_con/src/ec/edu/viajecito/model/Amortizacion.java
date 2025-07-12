@@ -4,12 +4,16 @@
  */
 package ec.edu.viajecito.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.math.BigDecimal;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  *
  * @author Drouet
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Amortizacion {
     private Integer idAmortizacion;
     private int numeroCuota;
@@ -78,6 +82,33 @@ public class Amortizacion {
         this.saldo = saldo;
     }
     
-    
+    public static List<Amortizacion> calcularAmortizacion(double monto, int cuotas, double tasaAnual) {
+        List<Amortizacion> tabla = new ArrayList<>();
+
+        double tasaMensual = tasaAnual / 12.0 / 100.0;
+        double cuotaFija = monto * (tasaMensual / (1 - Math.pow(1 + tasaMensual, -cuotas)));
+
+        double saldo = monto;
+        double interesTotal = 0;
+
+        for (int i = 1; i <= cuotas; i++) {
+            double interes = saldo * tasaMensual;
+            double capital = cuotaFija - interes;
+            saldo -= capital;
+            interesTotal += interes;
+
+            Amortizacion fila = new Amortizacion();
+            fila.setIdAmortizacion(0); // Asigna 0 por defecto o un valor autogenerado si corresponde
+            fila.setNumeroCuota(i);
+            fila.setValorCuota(new BigDecimal(cuotaFija));
+            fila.setInteresPagado(new BigDecimal(interes));
+            fila.setCapitalPagado(new BigDecimal(capital));
+            fila.setSaldo(new BigDecimal(saldo));
+
+            tabla.add(fila);
+        }
+
+        return tabla;
+    }
     
 }

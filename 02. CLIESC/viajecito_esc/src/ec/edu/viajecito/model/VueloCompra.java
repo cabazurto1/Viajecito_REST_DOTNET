@@ -4,10 +4,13 @@
  */
 package ec.edu.viajecito.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
 /**
  *
  * @author Drouet
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class VueloCompra {
     private int idVuelo;
     private int cantidad;

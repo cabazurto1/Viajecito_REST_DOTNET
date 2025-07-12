@@ -4,10 +4,13 @@
  */
 package ec.edu.viajecito.client;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.ws.rs.ClientErrorException;
 import jakarta.ws.rs.client.Client;
 import jakarta.ws.rs.client.WebTarget;
 import jakarta.ws.rs.core.GenericType;
+import jakarta.ws.rs.core.Response;
 
 /**
  *
@@ -17,7 +20,8 @@ public class FacturasClient {
 
     private WebTarget webTarget;
     private Client client;
-    private static final String BASE_URI = "http://10.69.99.199:8080/aerolineas_condor_server/api";
+    private static final String BASE_URI = "http://localhost:61210/ec.edu.monster.controlador/AerolineasController.svc";
+    private static final ObjectMapper mapper = new ObjectMapper(); // Jackson mapper
 
     public FacturasClient() {
         client = jakarta.ws.rs.client.ClientBuilder.newClient();
@@ -27,18 +31,31 @@ public class FacturasClient {
     public <T> T find(Class<T> responseType, String id) throws ClientErrorException {
         WebTarget resource = webTarget;
         resource = resource.path(java.text.MessageFormat.format("{0}", new Object[]{id}));
-        return resource.request(jakarta.ws.rs.core.MediaType.APPLICATION_JSON).get(responseType);
+// Forzar lectura como texto sin importar Content-Type
+        Response response = resource.request().get();
+        String json = response.readEntity(String.class);
+
+        try {
+            return mapper.readValue(json, responseType);
+        } catch (Exception e) {
+            throw new RuntimeException("❌ Error al parsear respuesta JSON: " + e.getMessage(), e);
+        }
     }
 
-    public <T> T findByUsuario(GenericType<T> responseType, String idUsuario) throws ClientErrorException {
+    public <T> T findByUsuario(TypeReference<T> responseType, String idUsuario) throws ClientErrorException {
         WebTarget resource = webTarget;
         resource = resource.path(java.text.MessageFormat.format("usuario/{0}", new Object[]{idUsuario}));
-        return resource.request(jakarta.ws.rs.core.MediaType.APPLICATION_JSON).get(responseType);
-    }
+        Response response = resource.request().get();
+        String json = response.readEntity(String.class);
 
+        try {
+            return mapper.readValue(json, responseType);
+        } catch (Exception e) {
+            throw new RuntimeException("❌ Error al parsear respuesta JSON: " + e.getMessage(), e);
+        }
+    }
 
     public void close() {
         client.close();
     }
 }
-

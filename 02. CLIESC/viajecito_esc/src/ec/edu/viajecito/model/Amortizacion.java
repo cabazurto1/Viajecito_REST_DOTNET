@@ -4,6 +4,7 @@
  */
 package ec.edu.viajecito.model;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
@@ -12,6 +13,7 @@ import java.util.List;
  *
  * @author Drouet
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Amortizacion {
     private Integer idAmortizacion;
     private int numeroCuota;

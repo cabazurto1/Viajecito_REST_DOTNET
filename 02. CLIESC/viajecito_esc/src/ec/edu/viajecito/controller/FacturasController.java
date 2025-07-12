@@ -4,6 +4,7 @@
  */
 package ec.edu.viajecito.controller;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import ec.edu.viajecito.client.AmortizacionClient;
 import ec.edu.viajecito.client.FacturasClient;
 import ec.edu.viajecito.model.Amortizacion;
@@ -30,7 +31,7 @@ public class FacturasController {
     public List<Factura> obtenerFacturasPorUsuario(int IdUsuario) {
         FacturasClient client = new FacturasClient();
         try {
-            List<Factura> facturas = client.findByUsuario(new GenericType<List<Factura>>() {}, String.valueOf(IdUsuario));
+            List<Factura> facturas = client.findByUsuario(new TypeReference<List<Factura>>() {}, String.valueOf(IdUsuario));
             return facturas;
         } finally {
             client.close();
@@ -40,7 +41,7 @@ public class FacturasController {
     public List<Amortizacion> obtenerAmortizacionPorFactura(Integer idFactura) {
         AmortizacionClient client = new AmortizacionClient();
         try {
-            List<Amortizacion> facturas = client.obtenerPorFactura(new GenericType<List<Amortizacion>>() {}, idFactura.toString());
+            List<Amortizacion> facturas = client.obtenerPorFactura(new TypeReference<List<Amortizacion>>() {}, idFactura.toString());
             return facturas;
         } finally {
             client.close();

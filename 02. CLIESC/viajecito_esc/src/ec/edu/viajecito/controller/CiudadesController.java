@@ -1,5 +1,6 @@
 package ec.edu.viajecito.controller;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import ec.edu.viajecito.client.CiudadesClient;
 import ec.edu.viajecito.model.Ciudad;
 import java.util.List;
@@ -11,7 +12,7 @@ public class CiudadesController {
         CiudadesClient client = new CiudadesClient();
         try {
             // Se espera que el cliente retorne una lista JSON de Ciudad que se mapea a List<Ciudad>
-            return client.findAll(new GenericType<List<Ciudad>>() {});
+            return client.findAll(new TypeReference<List<Ciudad>>() {});
         } finally {
             client.close();
         }

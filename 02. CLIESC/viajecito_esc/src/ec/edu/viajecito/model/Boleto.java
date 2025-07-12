@@ -6,6 +6,7 @@ package ec.edu.viajecito.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import java.math.BigDecimal;
 import java.time.Instant;
 import java.time.OffsetDateTime;
@@ -15,6 +16,7 @@ import java.util.Date;
  *
  * @author Drouet
  */
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Boleto {
 
     private Integer idBoleto;

@@ -4,6 +4,7 @@
  */
 package ec.edu.viajecito.controller;
 
+import com.fasterxml.jackson.core.type.TypeReference;
 import ec.edu.viajecito.client.BoletosClient;
 import ec.edu.viajecito.model.Boleto;
 import ec.edu.viajecito.model.CompraBoletoRequest;
@@ -20,7 +21,7 @@ public class BoletosController {
         BoletosClient client = new BoletosClient();
         try {
             // Asumiendo que el servicio devuelve List<Boleto>
-            List<Boleto> boletos = client.obtenerBoletosPorUsuario(new GenericType<List<Boleto>>() {}, idUsuario);
+            List<Boleto> boletos = client.obtenerBoletosPorUsuario(new TypeReference<List<Boleto>>() {}, idUsuario);
             return boletos;
         } finally {
             client.close();
